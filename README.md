@@ -6,20 +6,20 @@ The purpose of this project is using Artificial Neural Network that would predic
 
 TOOLS AND SOFTWARE USED
 
-Google Colaboratory
-Tensorflow
-Scikit-learn(Sklearn)
-Numpy
-Pandas
-Keras
-Seaborn 
+Google Colaboratory,
+Tensorflow,
+Scikit-learn(Sklearn),
+Numpy,
+Pandas,
+Keras,
+Seaborn,
 Matplotlib
 
 METHODOLOGY USED
-Get Dataset
-Data Preprocessing (Loading the data)
-Perform Data Visualization
-Prepare the Data Before Traning The Model
-Build a Multi Layer Neural Network Model
-Compile And Train Deep Learning Model
+Get Dataset,
+Data Preprocessing (Loading the data),
+Perform Data Visualization,
+Prepare the Data Before Traning The Model,
+Build a Multi Layer Neural Network Model,
+Compile And Train Deep Learning Model,
 Evaluating the Performance of the Trained Model
