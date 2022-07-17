@@ -4,10 +4,22 @@ A multi-layer neural network model for predicting approval for personal bank loa
 
 The purpose of this project is using Artificial Neural Network that would predict the likelihood of a customer getting approved for a bank loan.
 
-TECHNOLOGY USED-
+TOOLS AND SOFTWARE USED
 
-Python
-Tensorflow, Keras
-Pandas, numpy, matplotlib, seaborn
-Google colaboratory
-etc.
+Google Colaboratory
+Tensorflow
+Scikit-learn(Sklearn)
+Numpy
+Pandas
+Keras
+Seaborn 
+Matplotlib
+
+METHODOLOGY
+Get Dataset
+Data Preprocessing (Loading the data)
+Perform Data Visualization
+Prepare the Data Before Traning The Model
+Build a Multi Layer Neural Network Model
+Compile And Train Deep Learning Model
+Evaluating the Performance of the Trained Model
