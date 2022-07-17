@@ -15,7 +15,7 @@ Keras
 Seaborn 
 Matplotlib
 
-METHODOLOGY
+METHODOLOGY USED
 Get Dataset
 Data Preprocessing (Loading the data)
 Perform Data Visualization
