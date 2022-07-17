@@ -6,13 +6,27 @@ The purpose of this project is using Artificial Neural Network that would predic
 
 TOOLS AND SOFTWARE USED
 
-Google Colaboratory,
-Tensorflow,
-Scikit-learn(Sklearn),
-Numpy,
-Pandas,
-Keras,
-Seaborn,
+Google Colaboratory
+
+
+Tensorflow
+
+
+Scikit-learn(Sklearn)
+
+
+Numpy
+
+
+Pandas
+
+
+Keras
+
+
+Seaborn
+
+
 Matplotlib
 
 METHODOLOGY USED
